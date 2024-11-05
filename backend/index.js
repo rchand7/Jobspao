@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 const corsOptions = {
-    origin: 'https://jobspao-1.onrender.com',
+    origin: 'https://jobspao-8.onrender.com',
     credentials: true
 };
 
